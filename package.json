@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Microsoft/cognitive-services-speech-sdk-js"
+    "url": "https://github.com/yinhew/cognitive-services-speech-sdk-js/tree/yinhew/pronscore"
   },
   "browser": {
     "asn1.js-rfc2560": false,
